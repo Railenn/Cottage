@@ -447,7 +447,7 @@ a:hover
 
 .alpha__subtitle
 {
-	font-family: FiraFansBold;
+	font-family: FiraSansBold;
 	color: #fff;
 	line-height: 120%;
 	font-size: 2.2vw;
@@ -460,7 +460,7 @@ a:hover
 {
 	font-size: 9vw;
 	line-height: 100%;
-	font-family: FiraFansBold;
+	font-family: FiraSansBold;
 	color: #fff;
 }
 
@@ -471,7 +471,7 @@ a:hover
 	display: flex;
 	justify-content: space-between;
 	color: #fff;
-	font-family: FiraFansRegular;
+	font-family: FiraSansRegular;
 }
 
 
