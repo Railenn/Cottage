@@ -456,6 +456,16 @@ a:hover
 
 
 
+.alpha__text-title
+{
+	font-size: 9vw;
+	line-height: 100%;
+	font-family: FiraFansBold;
+	color: #fff;
+}
+
+
+
 .alpha__text
 {
 	display: flex;
@@ -2028,6 +2038,11 @@ a:hover
 
 
 
+	
+	.alpha__text-title
+	{
+		font-size: 100px;
+	}
 
 
 
